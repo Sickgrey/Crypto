@@ -1,5 +1,5 @@
 # Crypto
-The Crypto app provides information on the most popular cryptocurrencies.
+The Crypto app provides information about popular cryptocurrencies.
 ___
 The application uses information about the value of the cryptocurrency using the Cryptocompare API
 on the website https://www.cryptocompare.com
