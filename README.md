@@ -8,4 +8,4 @@ Used stack - Retrofit, RxJava, Room, Gson, Picasso
 ___
 ### App demonstration:
 
-<img src="https://github.com/Sickgrey/Crypto/blob/master/app/gifs/screen_crypto.gif" width="400" height="800"/>
+<img src="https://github.com/Sickgrey/Crypto/blob/master/app/gifs/screen_crypto.gif" width="300" height="600"/>
